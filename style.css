@@ -1,3 +1,26 @@
 *{margin: 0;
 padding: 0;
-box-sizing: border-box;}
+box-sizing: border-box;
+font-family: Bebas Neue;}
+
+html{font-size: 62.5%;}
+
+
+.heading{font-size: 10rem;
+color: black;
+font-weight: 900;}
+
+.box{background-color: #e1655d;
+height: 800px;
+width: 700px;
+margin: 0 auto;}
+
+.button{background-color: #e1655d;
+padding: 10px 20px;
+border: 3px solid #575c66;
+font-size: 3rem;}
+
+.bg-color{background-color: #575c66 ;
+    color: black;}
+
+.result{color: black;}
